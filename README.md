@@ -1,6 +1,6 @@
 [![Download from WordPress.org](.wordpress-org/banner-1544-500.jpg)](https://wordpress.org/plugins/ootb-openstreetmap/)
 
-# Out of the Block: OpenStreetMap
+# Out of the Block: OpenStreetMap (videomat fork)
 
 A map block for WordPress' Gutenberg Editor which uses [OpenStreetMap](https://www.openstreetmap.org) and [Leaflet.js](http://https://leafletjs.com). It needs no API keys and works out of the box (or, out of the Block, if you prefer). Benefiting from Gutenberg's potential, the plugin tries a different take on how to add your locations on the map and rethinks a few things, UX-wise.
 
